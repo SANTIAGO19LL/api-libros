@@ -8,7 +8,7 @@ import db from "./db/connection.js";
 dotenv.config();
 
 const app = express();
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 7500;
 
 (async () => {
   try {
