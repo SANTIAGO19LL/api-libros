@@ -16,7 +16,7 @@
 - crear archivo .env para las variables de entorno y poder conectar a base de datos
 
 ```env
-    PORT=
+    PORT=7500
     HOST_DB=
     USER_DB=
     PASSWORD_DB=
